@@ -1,0 +1,21 @@
+Categories used to get 100 topics from each category, topics sorted by relevance
+
+Computed Tomography = "ct"
+
+Breast Imaging = "br"
+ 
+Geritourinary Radiology = "gu"
+    
+Musculoskeletal Radiology = "mk"
+
+Emergency Radiology = "er"
+
+Biomarkers and Quantative imaging = "bq"
+
+Safety and Quality = "sq"
+
+Professionalism = "pr"
+
+Nuclear Medicine = "nm"
+
+Chest Radiology = "ch"
