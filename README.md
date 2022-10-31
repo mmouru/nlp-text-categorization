@@ -56,6 +56,7 @@ These models were used in [step8.ipynb](../main/step8.ipynb) to build embedding 
 
 ***Step9***
 
+NOTE: As bert-embedding is not supported in newer versions of Python, this section was executed with Python 3.6.5.
 Pre-trained BERT model [bert_24_1024_16](https://bert-embedding.readthedocs.io/en/latest/bert_models/bert_models.html) was used in training of the model. Word embedding vectros from abstract and topics was build using these models in [step9.ipynb](../main/step9.ipynb).
 
 
